@@ -89,7 +89,7 @@ Both tests confirmed private connectivity between the two VPCs through the activ
 - Amazon Linux 2023
 - SSH and ICMP
 
-- ## Project Status
+## Project Status
 
 The VPC peering connection is active, and bidirectional connectivity tests have passed. Evidence screenshots and final cleanup are pending.
 
