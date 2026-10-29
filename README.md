@@ -68,6 +68,17 @@ The project uses separate VPCs, private subnets, route tables, security groups, 
 
 Both tests confirmed private connectivity between the two VPCs through the active peering connection.
 
+### Evidence Screenshots
+
+#### 1. App-A to App-B Connectivity Test
+![App-A to App-B ping test](app-a-ping.png)
+
+#### 2. App-B to App-A Connectivity Test
+![App-B to App-A ping test](app-b-ping.png)
+
+#### 3. VPC Peering Connection Status
+![Active VPC peering connection](peering-active.png)
+
 ## Key Learnings
 
 - VPC CIDR planning and subnet configuration.
