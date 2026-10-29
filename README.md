@@ -91,7 +91,7 @@ Both tests confirmed private connectivity between the two VPCs through the activ
 
 ## Project Status
 
-The VPC peering connection is active, and bidirectional connectivity tests have passed. Evidence screenshots and final cleanup are pending.
+The VPC peering connection is active, and bidirectional connectivity tests between App-A and App-B have passed with 0% packet loss. Evidence screenshots have been uploaded to the repository. Final resource cleanup is pending.
 
 ## Security Note
 
