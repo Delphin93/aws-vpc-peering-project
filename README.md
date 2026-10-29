@@ -77,7 +77,7 @@ Both tests confirmed private connectivity between the two VPCs through the activ
 - Private communication between VPCs using VPC Peering.
 - Connectivity testing and troubleshooting.
 
-- ## Technologies Used
+## Technologies Used
 
 - Amazon Web Services (AWS)
 - Amazon VPC
